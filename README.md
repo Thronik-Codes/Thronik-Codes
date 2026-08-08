@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Shekhar%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:shekharxsingh57@gmail.com">
+  <a href="mailto:thronik57@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-shekharxsingh57-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
