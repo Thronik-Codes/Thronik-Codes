@@ -31,64 +31,159 @@ class ShekharSingh:
 
 ---
 
+
 ## What I Work With
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+### 🤖 Agent Frameworks & Orchestration
+ 
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF0080?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+ 
+```
+LangGraph  → stateful graphs, conditional edges,
+             checkpointers, full state management
+LangChain  → prompt templates, tool binding,
+             agent executors, multi-agent chains
+CrewAI     → role-based agents, sequential +
+             hierarchical task execution
+AutoGen    → conversational multi-agent,
+             group chat, code execution
+```
+ 
+</td>
+<td width="50%" valign="top">
+### 🧠 Core Agent Capabilities
+ 
+```
+✦ Reasoning loops
+  agents that think before acting
+ 
+✦ Tool use
+  search · calculator · DB · APIs
+ 
+✦ Memory
+  short-term chat + long-term vector/SQL
+ 
+✦ Planning & reflection
+  self-correct and re-plan on failure
+ 
+✦ Human-in-the-loop
+  approval gates in automated pipelines
+ 
+✦ Streaming responses
+  real-time tokens via async pipelines
+```
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### ⚡ LLM Layer
+ 
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+ 
+```
+Prompting · System instructions
+Structured outputs · Function calling
+RAG · Hallucination handling
+Latency + cost evaluation
+```
+ 
+</td>
+<td width="50%" valign="top">
+### 🔧 Backend & APIs
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white)
+![Async](https://img.shields.io/badge/Async%2FAwait-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+ 
+```
+FastAPI · Pydantic validation
+async/await · Event loops
+REST API design
+Production folder structure
+```
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### 🗄️ Memory & Retrieval
+ 
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
+ 
+```
+Embedding pipelines
+Vector search · RAG workflows
+Long-term SQL persistence
+ChromaDB · PostgreSQL · SQLAlchemy
+```
+ 
+</td>
+<td width="50%" valign="top">
+### 🔌 MCP — Model Context Protocol
+ 
+![MCP](https://img.shields.io/badge/MCP-00D9FF?style=for-the-badge&logoColor=black)
+ 
+```
+MCP servers + clients
+Connecting agents to DBs, APIs, files
+Integrating MCP with LangGraph
+Permission handling + security
+Testing and debugging MCP apps
+```
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### 🚀 Deployment & Infra
+ 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+ 
+```
+Docker · AWS · Render
+GitHub Actions CI/CD
+LangSmith monitoring + debugging
+Logging · Env vars · Prod structure
+```
+ 
+</td>
+<td width="50%" valign="top">
+### 🛡️ AI Safety & Evaluation
+ 
+```
+✦ Prompt injection defense
+✦ Input / output validation
+✦ Content filtering
+✦ Role-based permissions
+✦ Tool access restrictions
+✦ Hallucination detection
+✦ Task completion evaluation
+✦ Latency + cost benchmarking
+✦ Automated + human eval pipelines
+✦ Regression & reliability testing
+```
+ 
+</td>
+</tr>
+</table>
 
-**Agent Frameworks & Orchestration**
-
-LangGraph — stateful graph-based agent workflows with conditional edges, checkpointers, and full state management.
-LangChain — LLM setup, prompt templates, tool binding, agent executors, multi-agent chains.
-CrewAI — role-based collaborative agents with sequential and hierarchical task execution.
-AutoGen — conversational multi-agent systems with group chat, human-in-the-loop, and code execution.
-
-**Core Agent Capabilities I Build**
-
-- Reasoning loops — agents that think step by step before acting
-- Tool use — search, calculator, database queries, external APIs
-- Memory — short-term chat history, long-term vector + SQL persistence
-- Planning & reflection — agents that self-correct and re-plan on failure
-- Human-in-the-loop — approval gates inside automated pipelines
-- Streaming responses — real-time token output through async pipelines
-
-**LLM Layer**
-
-Prompting, system instructions, structured outputs, function / tool calling,
-RAG with vector databases, hallucination handling, latency and cost evaluation.
-
-**Backend & APIs**
-
-FastAPI, Pydantic validation, async/await event loops, REST API design,
-environment configuration, production folder structure.
-
-**Memory & Retrieval**
-
-ChromaDB, PostgreSQL, SQLAlchemy, embedding pipelines, vector search,
-retrieval-augmented generation workflows.
-
-**MCP — Model Context Protocol**
-
-Building MCP servers and clients, connecting agents to databases, APIs, and local files,
-integrating MCP with LangGraph, permission handling, testing and debugging.
-
-**Deployment & Infra**
-
-Docker, AWS, Render, GitHub Actions CI/CD, LangSmith monitoring and debugging,
-logging, environment variables, production-grade project structure.
-
-**AI Safety & Evaluation**
-
-Prompt injection defense, input/output validation, content filtering, role-based permissions,
-tool access restrictions, hallucination detection, task completion evaluation,
-latency + cost benchmarking, automated and human evaluation pipelines.
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhar-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/shekhar-singh)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/shekhar-singh)
-
-</div>
 
 ---
 
