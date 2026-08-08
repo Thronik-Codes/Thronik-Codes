@@ -17,7 +17,7 @@
 
 ---
 
-I build with
+# **I Build with**
  
 **🤖Agent Frameworks & LLMs**
 <p>
@@ -31,7 +31,8 @@ I build with
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
-**🔧Languages & Backend**
+
+**Languages & Backend**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,fastapi,linux,git,postman&theme=dark"/>
@@ -41,7 +42,8 @@ I build with
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Async%2FAwait-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
-**🗄️Databases & Memory**
+
+**Databases & Memory**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark"/>
@@ -52,7 +54,8 @@ I build with
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white"/>
 </p>
-**🚀Infra & DevOps**
+
+**Infra & DevOps**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,github,vscode&theme=dark"/>
@@ -62,7 +65,7 @@ I build with
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 ---
-### Let's connect
+**Let's Connect**
 
 <p>
   <a href="https://www.linkedin.com/in/shekhar-singh-a5b43b377">
