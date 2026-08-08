@@ -9,11 +9,11 @@
 
 ### About me
 
- &nbsp;I design and Ship **Autonomous Multi-Agent Systems** using LangGraph, LangChain, CrewAI, and AutoGen<br/>
- &nbsp;I build and Integrate **MCP (Model Context Protocol)** servers to connect agents with real-world tools<br/>
- &nbsp;I Architect **RAG Pipelines**, Vector Memory, and long-term persistence for production AI Apps<br/>
- &nbsp;I Deploy Agentic Systems End-to-End — **FastAPI → Docker → AWS** with LangSmith observability<br/>
- &nbsp;I Implement **AI Safety, Guardrails, and Evaluation** Pipelines for Reliable Agent Behavior<br/>
+ - &nbsp;I design and Ship **Autonomous Multi-Agent Systems** using LangGraph, LangChain, CrewAI, and AutoGen<br/>
+ - &nbsp;I build and Integrate **MCP (Model Context Protocol)** servers to connect agents with real-world tools<br/>
+ - &nbsp;I Architect **RAG Pipelines**, Vector Memory, and long-term persistence for production AI Apps<br/>
+ - &nbsp;I Deploy Agentic Systems End-to-End — **FastAPI → Docker → AWS** with LangSmith observability<br/>
+ - &nbsp;I Implement **AI Safety, Guardrails, and Evaluation** Pipelines for Reliable Agent Behavior<br/>
 
 ---
 
@@ -70,4 +70,3 @@
 
 <p>Working on something in the Agentic AI space? Let's talk.</p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Shekhar-codes&color=00D9FF&style=flat-square&label=Profile+Views)
