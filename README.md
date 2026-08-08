@@ -19,7 +19,7 @@
 
 I build with
  
-**🤖 Agent Frameworks & LLMs**
+**🤖Agent Frameworks & LLMs**
 <p>
   <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -31,7 +31,7 @@ I build with
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
-**🔧 Languages & Backend**
+**🔧Languages & Backend**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,fastapi,linux,git,postman&theme=dark"/>
@@ -41,7 +41,7 @@ I build with
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Async%2FAwait-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
-**🗄️ Databases & Memory**
+**🗄️Databases & Memory**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark"/>
@@ -52,7 +52,7 @@ I build with
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white"/>
 </p>
-**🚀 Infra & DevOps**
+**🚀Infra & DevOps**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,github,vscode&theme=dark"/>
