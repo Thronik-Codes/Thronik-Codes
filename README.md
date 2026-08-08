@@ -16,7 +16,45 @@
  - &nbsp;I Implement **AI Safety, Guardrails, and Evaluation** Pipelines for Reliable Agent Behavior<br/>
 
 ---
-
+### I build with
+ 
+<!-- Agent Frameworks -->
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=apachespark&logoColor=white" title="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" title="LangChain"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF0080?style=for-the-badge&logo=airplanevector&logoColor=white" title="CrewAI"/>
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" title="AutoGen"/>
+  <img src="https://img.shields.io/badge/MCP-00D9FF?style=for-the-badge&logo=buffer&logoColor=black" title="Model Context Protocol"/>
+</p>
+<!-- LLMs -->
+<p>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" title="Claude"/>
+  <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" title="GPT-4o"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" title="Groq"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" title="Gemini"/>
+</p>
+<!-- Backend -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" title="Pydantic"/>
+  <img src="https://img.shields.io/badge/Async%2FAwait-FFD43B?style=for-the-badge&logo=python&logoColor=black" title="Async/Await"/>
+</p>
+<!-- Memory & DB -->
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" title="ChromaDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLAlchemy"/>
+</p>
+<!-- Infra & DevOps -->
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" title="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" title="LangSmith"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" title="Render"/>
+</p>
+---
 ### I Build with
 
 <p>
