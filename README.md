@@ -7,7 +7,7 @@
 
 ---
 
-### About me
+# **About Me**
 
  - &nbsp;I design and Ship **Autonomous Multi-Agent Systems** using LangGraph, LangChain, CrewAI, and AutoGen<br/>
  - &nbsp;I build and Integrate **MCP (Model Context Protocol)** servers to connect agents with real-world tools<br/>
@@ -17,7 +17,7 @@
 
 ---
 
-# **I Build with**
+# **I Build With**
  
 **🤖Agent Frameworks & LLMs**
 <p>
@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 ---
+
 **Let's Connect**
 
 <p>
